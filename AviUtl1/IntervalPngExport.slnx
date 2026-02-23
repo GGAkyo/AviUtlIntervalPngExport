@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IntervalPngExport/IntervalPngExport.vcxproj" Id="76e00da8-2aa5-4563-95b4-d14ce26fcd93" />
+</Solution>
