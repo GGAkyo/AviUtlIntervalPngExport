@@ -1,0 +1,9 @@
+.venv/
+.wheels/
+__pycache__/
+dependency-install.log
+.runtime/
+plugin/build/
+.verification/
+output/
+results/

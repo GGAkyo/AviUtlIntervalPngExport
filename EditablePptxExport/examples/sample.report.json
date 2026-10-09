@@ -1,0 +1,101 @@
+{
+  "source": "E:\\AviUtlIntervalExport\\EditablePptxExport\\examples\\sample.exo",
+  "output": "E:\\AviUtlIntervalExport\\EditablePptxExport\\examples\\sample.pptx",
+  "frames": [
+    1,
+    31
+  ],
+  "warnings": [],
+  "slides": [
+    {
+      "frame": 1,
+      "seconds": 0.0,
+      "objects": [
+        {
+          "id": 1,
+          "kind": "image",
+          "left_px": 792.0,
+          "top_px": 315.0,
+          "width_px": 336.0,
+          "height_px": 210.0,
+          "rotation": 15.0
+        },
+        {
+          "id": 0,
+          "kind": "text",
+          "left_px": 100.0,
+          "top_px": 90.0,
+          "width_px": 648.0,
+          "height_px": 54.0,
+          "rotation": 0.0
+        },
+        {
+          "id": 2,
+          "kind": "text",
+          "left_px": 110.0,
+          "top_px": 260.0,
+          "width_px": 512.0,
+          "height_px": 66.0,
+          "rotation": 0.0
+        },
+        {
+          "id": 4,
+          "kind": "text",
+          "left_px": 110.0,
+          "top_px": 590.0,
+          "width_px": 420.0,
+          "height_px": 28.0,
+          "rotation": 0.0
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "seconds": 1.0,
+      "objects": [
+        {
+          "id": 1,
+          "kind": "image",
+          "left_px": 792.0,
+          "top_px": 315.0,
+          "width_px": 336.0,
+          "height_px": 210.0,
+          "rotation": 15.0
+        },
+        {
+          "id": 0,
+          "kind": "text",
+          "left_px": 100.0,
+          "top_px": 90.0,
+          "width_px": 648.0,
+          "height_px": 54.0,
+          "rotation": 0.0
+        },
+        {
+          "id": 3,
+          "kind": "text",
+          "left_px": 110.0,
+          "top_px": 260.0,
+          "width_px": 576.0,
+          "height_px": 66.0,
+          "rotation": 0.0
+        },
+        {
+          "id": 4,
+          "kind": "text",
+          "left_px": 110.0,
+          "top_px": 590.0,
+          "width_px": 420.0,
+          "height_px": 28.0,
+          "rotation": 0.0
+        }
+      ]
+    }
+  ],
+  "status": "converted",
+  "notes": [
+    "試作版です。AviUtlとPowerPointの文字描画差による字幅・行間・位置の差は残ります。",
+    "EXO内の1始まりのフレーム番号を使用します。AUP全体の時刻と一致するとは限りません。",
+    "背景色は指定値です。EXOに含まれない本体側のフィルタ・背景・レイヤー状態は復元できません。"
+  ]
+}

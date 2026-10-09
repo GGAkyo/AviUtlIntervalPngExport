@@ -1,0 +1,190 @@
+{
+  "source": "E:\\AviUtlIntervalExport\\EditablePptxExport\\examples\\citations\\demo.exo",
+  "output": "E:\\AviUtlIntervalExport\\EditablePptxExport\\examples\\citations\\demo.pptx",
+  "frames": [
+    1,
+    31,
+    61
+  ],
+  "warnings": [],
+  "slides": [
+    {
+      "frame": 1,
+      "seconds": 0.0,
+      "objects": [
+        {
+          "id": 0,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 120.0,
+          "width_px": 312.0,
+          "height_px": 48.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        },
+        {
+          "id": 2,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 460.0,
+          "width_px": 456.0,
+          "height_px": 24.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        },
+        {
+          "id": 3,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 520.0,
+          "width_px": 456.0,
+          "height_px": 24.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "seconds": 1.0,
+      "objects": [
+        {
+          "id": 1,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 120.0,
+          "width_px": 312.0,
+          "height_px": 48.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        },
+        {
+          "id": 2,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 460.0,
+          "width_px": 456.0,
+          "height_px": 24.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        },
+        {
+          "id": 3,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 520.0,
+          "width_px": 456.0,
+          "height_px": 24.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "seconds": 2.0,
+      "objects": [
+        {
+          "id": 4,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 120.0,
+          "width_px": 456.0,
+          "height_px": 48.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        },
+        {
+          "id": 2,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 460.0,
+          "width_px": 456.0,
+          "height_px": 24.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        },
+        {
+          "id": 3,
+          "kind": "text",
+          "left_px": 140.0,
+          "top_px": 520.0,
+          "width_px": 456.0,
+          "height_px": 24.0,
+          "rotation": 0.0,
+          "crop": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "flip_h": false,
+          "flip_v": false
+        }
+      ]
+    }
+  ],
+  "status": "converted",
+  "notes": [
+    "試作版です。AviUtlとPowerPointの文字描画差による字幅・行間・位置の差は残ります。",
+    "EXO内の1始まりのフレーム番号を使用します。AUP全体の時刻と一致するとは限りません。",
+    "背景色は指定値です。EXOに含まれない本体側のフィルタ・背景・レイヤー状態は復元できません。",
+    "引用番号: {\"smith2024\": 1, \"tanaka2025\": 2}"
+  ]
+}
